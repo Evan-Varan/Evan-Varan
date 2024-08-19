@@ -10,7 +10,7 @@
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/Java-red?logo=java&logoColor=brown)
+![HTML](https://img.shields.io/badge/HTML-lightyellow)
 ![Assembly](https://img.shields.io/badge/Assembly-navy)
 
 #### Electrical Engineering Tools
@@ -59,7 +59,7 @@
 
 
 #### Employers and Research Sponsors
-![From The Heart Tutoring]([https://img.shields.io/badge/From_The_Heart_Tutoring-red)
+![From The Heart Tutoring]([https://img.shields.io/badge/From_The_Heart_Tutoring-darkred)
 ![CodeWiz](https://img.shields.io/badge/CodeWiz-darkblue)
 ![Zinkerz](https://img.shields.io/badge/Zinkerz,Inc.-white)
 ![NASA](https://img.shields.io/badge/NASA-red)
