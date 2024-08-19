@@ -54,11 +54,11 @@
 ![Linux](https://img.shields.io/badge/Linux-orange)
 
 
-#### Employers and People I have worked with
-![From-The-Heart-Tutoring](https://img.shields.io/badge/From The Heart Tutoring-darkred)
+#### Employers and Research Sponsors
+![From The Heart Tutoring](https://img.shields.io/badge/From The Heart Tutoring-darkred)
 ![CodeWiz](https://img.shields.io/badge/CodeWiz-darkblue)
 ![Zinkerz](https://img.shields.io/badge/Zinkerz,Inc.-white)
 ![NASA](https://img.shields.io/badge/NASA-red)
-![TXState](https://img.shields.io/badge/Texas State University-gold)
-![Non-Lethal-Enterprises](https://img.shields.io/badge/Non Lethal Enterprises-navy?logo=java&logoColor=green)
+![Texas State University](https://img.shields.io/badge/Texas State University-gold)
+![Non Lethal Enterprises](https://img.shields.io/badge/Non Lethal Enterprises-navy?logo=java&logoColor=green)
 
