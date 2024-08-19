@@ -35,7 +35,6 @@
 ![Vim](https://img.shields.io/badge/Vim-lightgreen)
 
 #### Source Control
-![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-purple?logo=java&logoColor=white)
 ![Team Foundation Server](https://img.shields.io/badge/Team_Foundation_Server-darkblue)
 
