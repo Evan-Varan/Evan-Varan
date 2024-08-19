@@ -59,7 +59,7 @@
 
 
 #### Employers and Research Sponsors
-![From The Heart Tutoring]([https://img.shields.io/badge/From_The_Heart_Tutoring-darkred)
+![From The Heart Tutoring](https://img.shields.io/badge/From_The_Heart_Tutoring-darkred)
 ![CodeWiz](https://img.shields.io/badge/CodeWiz-darkblue)
 ![Zinkerz](https://img.shields.io/badge/Zinkerz,Inc.-white)
 ![NASA](https://img.shields.io/badge/NASA-red)
