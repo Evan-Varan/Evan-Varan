@@ -58,10 +58,10 @@
 
 
 #### Employers and Research Sponsors
-![From The Heart Tutoring](https://img.shields.io/badge/From_The_Heart_Tutoring-darkred)
+![From The Heart Tutoring](https://img.shields.io/badge/From_The_Heart_Tutoring-lightred)
 ![CodeWiz](https://img.shields.io/badge/CodeWiz-darkblue)
 ![Zinkerz](https://img.shields.io/badge/Zinkerz,Inc.-white)
-![NASA](https://img.shields.io/badge/NASA-red)
+![NASA](https://img.shields.io/badge/NASA-darkred)
 ![Texas State University](https://img.shields.io/badge/Texas_State_University-gold)
 ![Non Lethal Enterprises](https://img.shields.io/badge/Non_Lethal_Enterprises-green)
 
