@@ -55,10 +55,10 @@
 
 
 #### Employers and People I have worked with
-![From-The-Heart-Tutoring](https://img.shields.io/badge/Fisher--Rosemount-darkred)
-![CodeWiz](https://img.shields.io/badge/Emerson-darkblue)
-![Zinkerz](https://img.shields.io/badge/Dell-blue)
-![NASA](https://img.shields.io/badge/Newgistics-green)
-![TXState](https://img.shields.io/badge/MyPlates-red)
-![Non-Lethal-Enterprises](https://img.shields.io/badge/Allied_Consultants-navy?logo=java&logoColor=white)
+![From-The-Heart-Tutoring](https://img.shields.io/badge/From-The-Heart-Tutoring-darkred)
+![CodeWiz](https://img.shields.io/badge/CodeWiz-darkblue)
+![Zinkerz](https://img.shields.io/badge/Zinkerz,Inc.-white)
+![NASA](https://img.shields.io/badge/NASA-red)
+![TXState](https://img.shields.io/badge/Texas-State-University-gold)
+![Non-Lethal-Enterprises](https://img.shields.io/badge/Non-Lethal-Enterprises-navy?logo=java&logoColor=green)
 
