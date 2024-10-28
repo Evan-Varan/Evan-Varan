@@ -35,8 +35,8 @@
 ![Vim](https://img.shields.io/badge/Vim-lightgreen)
 
 #### Databases
-![MySQL](https://img.shields.io/badge/MySQL-green)
-![T SQL](https://img.shields.io/badge/T_SQL-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-darkgreen)
+![T SQL](https://img.shields.io/badge/T_SQL-darkyellow)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-purple)
 ![Microsoft SQL Server Management Studio](https://img.shields.io/badge/Microsoft_SQL_Server_Management_Studio-blue)
 ![Xampp](https://img.shields.io/badge/Xampp-orange)
