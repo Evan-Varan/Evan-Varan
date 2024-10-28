@@ -34,6 +34,12 @@
 ![Thonny](https://img.shields.io/badge/Thonny-darkgray)
 ![Vim](https://img.shields.io/badge/Vim-lightgreen)
 
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-brown)
+![T SQL](https://img.shields.io/badge/T SQL-yellow)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft SQL Server-purple)
+![Xampp](https://img.shields.io/badge/Xampp-orange)
+
 #### Source Control
 ![GitHub](https://img.shields.io/badge/GitHub-purple?logo=java&logoColor=white)
 ![Team Foundation Server](https://img.shields.io/badge/Team_Foundation_Server-darkblue)
