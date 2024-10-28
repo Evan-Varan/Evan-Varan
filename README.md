@@ -36,7 +36,7 @@
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-darkgreen)
-![T SQL](https://img.shields.io/badge/T_SQL-darkyellow)
+![T SQL](https://img.shields.io/badge/T_SQL-yellow)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-purple)
 ![Microsoft SQL Server Management Studio](https://img.shields.io/badge/Microsoft_SQL_Server_Management_Studio-blue)
 ![Xampp](https://img.shields.io/badge/Xampp-orange)
