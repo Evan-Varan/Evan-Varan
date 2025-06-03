@@ -5,13 +5,14 @@
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Rust](https://img.shields.io/badge/Rust-brown?logo=java&logoColor=white)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
 ![Lua Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-lightyellow)
-![Assembly](https://img.shields.io/badge/Assembly-navy)
+![CSS](https://img.shields.io/badge/CSS-yellow)
+![Typescript](https://img.shields.io/badge/Typescript-cyan)
+
 
 #### Electrical Engineering Tools
 ![LTspice](https://img.shields.io/badge/LTspice-lightgreen)
@@ -40,6 +41,16 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-purple)
 ![Microsoft SQL Server Management Studio](https://img.shields.io/badge/Microsoft_SQL_Server_Management_Studio-blue)
 ![Xampp](https://img.shields.io/badge/Xampp-orange)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-white)
+![NoSQL](https://img.shields.io/badge/NoSQL-darkred)
+
+#### AWS Cloud Tools
+![AWS](https://img.shields.io/badge/AWS-white)
+![Lambda](https://img.shields.io/badge/Lambda-yellow)
+![App Runner](https://img.shields.io/badge/App_Runner-darkred)
+![S3](https://img.shields.io/badge/S3-darkgreen)
+![ECR](https://img.shields.io/badge/ECR-orange)
+![AWS SDK](https://img.shields.io/badge/AWS_SDK-lightblue)
 
 #### Source Control
 ![GitHub](https://img.shields.io/badge/GitHub-purple?logo=java&logoColor=white)
@@ -48,6 +59,11 @@
 #### Frameworks
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-navy)
+![REST APIs](https://img.shields.io/badge/REST_APIs-lightgreen)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-darkgreen)
+![React](https://img.shields.io/badge/React-lightblue)
+![Vite](https://img.shields.io/badge/Vite-purple)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-yellow)
 ![Unity](https://img.shields.io/badge/Unity-lightgray?logo=java&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-lightblue)
 ![CSV](https://img.shields.io/badge/CSV-lightyellow)
@@ -63,11 +79,11 @@
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu_Linux-orange)
 ![Debian Linux](https://img.shields.io/badge/Debian_Linux-lightred)
 
-
 #### Employers and Research Sponsors
 ![From The Heart Tutoring](https://img.shields.io/badge/From_The_Heart_Tutoring-brown)
 ![CodeWiz](https://img.shields.io/badge/CodeWiz-darkblue)
 ![Zinkerz](https://img.shields.io/badge/Zinkerz,Inc.-white)
+![Outlier AI](https://img.shields.io/badge/Outlier_AI-cyan)
 ![NASA](https://img.shields.io/badge/NASA-darkred)
 ![Texas State University](https://img.shields.io/badge/Texas_State_University-gold)
 ![Non Lethal Enterprises](https://img.shields.io/badge/Non_Lethal_Enterprises-green)
