@@ -1,3 +1,7 @@
+
+![Metrics](https://raw.githubusercontent.com/Evan-Varan/Evan-Varan/main/github-metrics.svg)
+
+
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 #### Languages
