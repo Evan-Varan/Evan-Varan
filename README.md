@@ -1,13 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Evan+Varan.;Full-stack+Engineer+%2F+Embedded+Dev.;Building+with+C%2C+Go%2C+TypeScript%2C+Python.;Cloud%2C+Systems%2C+Automation+%26+Hardware." alt="Typing animation" />
+  <img src="heading.gif" alt="Evan Varan animated banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Evan Varan</h1>
-<h3 align="center">A Full‑Stack Developer & Electrical Engineer building AI tools and embedded systems</h3>
+<h3 align="center">A Full‑Stack Developer & Electrical Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/evan-r-varan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="evanvaran.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Personal Website" />
   </a>
   <a href="mailto:evan.varan@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white" alt="Email" />
@@ -16,14 +19,11 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ &nbsp;Favorite Technologies
 
 **Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -35,11 +35,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
+&nbsp;
 
-### 📊 Stats & Activity
+## 📊 &nbsp;Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evan-Varan&show_icons=true&theme=radical&count_private=true" alt="Evan's GitHub stats" />
@@ -57,23 +56,23 @@
   <img src="https://raw.githubusercontent.com/Evan-Varan/Evan-Varan/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
----
+&nbsp;
 
-### 🚀 Featured Projects
+## 👇 &nbsp;Current Projects
 
-- 🔧 [Meta-Frontend-Developement-Course](https://github.com/Evan-Varan/Meta-Frontend-Developement-Course) – Meta course front-end portfolio work  
-- 🌐 [From-The-Heart-Tutoring](https://github.com/Evan-Varan/From-The-Heart-Tutoring) – Website for tutoring org; deployed via AWS
+- 🔧 [Meta-Frontend-Developement-Course](https://github.com/Evan-Varan/Meta-Frontend-Developement-Course) – Currently Learning Frontend Development through Meta! 
+- 🌐 [From-The-Heart-Tutoring](https://github.com/Evan-Varan/From-The-Heart-Tutoring) – My website for tutoring org; deployed via AWS
 
----
+&nbsp;
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ &nbsp;About Me
 
-- 🔭 I’m currently working on AI tooling and platform automation  
-- 🧠 I’m interested in embedded systems, backend architecture, and language runtimes  
-- 🌱 I’m learning Rust and contributing to OSS  
-- 💬 Ask me about anything C#, Go, Python, or systems/devops related
+- 🔭 I’m currently working on AI tooling and platform automation (Outlier AI)
+- 🧠 I’m running and operating a tutoring company, whilst doing all software development for the project.  
+- 🌱 I’m learning Frontend Development through Meta using React, JS, TS, Tailwind CSS, and Next.js
+- 💬 Currently, in addition to my hobby work, I am looking for a full-time software developer role.
 
----
+&nbsp;
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Evan-Varan&color=blue" alt="Profile Views" />
