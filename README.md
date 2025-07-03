@@ -9,13 +9,16 @@
   <a href="https://linkedin.com/in/evan-r-varan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="evanvaran.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="Personal Website" />
-  </a>
+
   <a href="mailto:evan.varan@gmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <a href="https://evanvaran.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=flat&logo=firefox&logoColor=white" alt="Website" />
+  </a>
 </p>
+
 
 ---
 
