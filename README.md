@@ -64,7 +64,7 @@
 ## 👇 &nbsp;Current Projects
 
 - 🔧 [Meta-Frontend-Developement-Course](https://github.com/Evan-Varan/Meta-Frontend-Developement-Course) – Currently Learning Frontend Development through Meta! 
-- 🌐 [From-The-Heart-Tutoring](https://github.com/Evan-Varan/From-The-Heart-Tutoring) – My website for tutoring org; deployed via AWS
+- 🌐 [From-The-Heart-Tutoring](https://github.com/Evan-Varan/FTHT-Website-V2) – My Full-Stack redesign of my website
 
 &nbsp;
 
