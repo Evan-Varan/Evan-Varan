@@ -44,8 +44,8 @@
 ## &nbsp;Current Projects
 
 -  [Meta-Frontend-Developement-Course](https://github.com/Evan-Varan/Meta-Frontend-Developement-Course) – Currently Learning Frontend Development through Meta!
--  [Juno-Application-Assistant](https://github.com/Evan-Varan/Juno-Application-Assistant) – A full-stack project to help software developers with job applications. Made with React, SQL, and C#.  
--  [From-The-Heart-Tutoring](https://github.com/Evan-Varan/FTHT-Website-V2) – My Full-Stack redesign of my website
+-  [Juno-Application-Assistant](https://github.com/Evan-Varan/Juno-Application-Assistant) – A full-stack project to help software developers with job applications. Made with React, Tailwind CSS, SQL, and C#.  
+-  [From-The-Heart-Tutoring](https://github.com/Evan-Varan/FTHT-Website-V2) – My Full-Stack redesign of my website. Made with React, Tailwind CSS, SQL, and C#. Original website made with JS, HTML, and CSS.
 
 &nbsp;
 
