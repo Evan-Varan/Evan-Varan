@@ -69,7 +69,7 @@
   <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/fthtDemo.png?raw=true" alt="FTHT Demo" width="800"/>
 </p>
 <p align="center">
-  <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/AboutFTHTDemo.png?raw=true" alt="Juno Demo" width="800"/>
+  <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/ScheduleFTHTDemo.png?raw=true" alt="Juno Demo" width="800"/>
 </p>
 <p align="center">
   <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/ContactFTHTDemo.png?raw=true" alt="Signup Demo" width="800"/>
