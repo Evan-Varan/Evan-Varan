@@ -2,7 +2,7 @@
   <img src="heading.gif" alt="Evan Varan animated banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Evan Varan</h1>
+<h1 align="center">Hello! I'm Evan Varan</h1>
 <h3 align="center">A Full‑Stack Developer & Electrical Engineer</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ &nbsp;Favorite Technologies
+## &nbsp;Favorite Technologies
 
 **Languages:**  
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -41,7 +41,41 @@
 
 &nbsp;
 
-## 📊 &nbsp;Stats & Activity
+## &nbsp;Current Projects
+
+-  [Meta-Frontend-Developement-Course](https://github.com/Evan-Varan/Meta-Frontend-Developement-Course) – Currently Learning Frontend Development through Meta!
+-  [Juno-Application-Assistant](https://github.com/Evan-Varan/Juno-Application-Assistant) – A full-stack project to help software developers with job applications. Made with React, SQL, and C#.  
+-  [From-The-Heart-Tutoring](https://github.com/Evan-Varan/FTHT-Website-V2) – My Full-Stack redesign of my website
+
+&nbsp;
+
+## &nbsp;Portfolio
+
+<img src="https://img.shields.io/badge/Juno-blue?style=for-the-badge" alt="Juno" width="100"/>
+
+<p align="center">
+  <img src="https://github.com/Evan-Varan/Juno-Application-Assistant/blob/main/DemoImages/headerDemo.png?raw=true" alt="Login Demo" width="800"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Evan-Varan/Juno-Application-Assistant/blob/main/DemoImages/JunoDemo.png?raw=true" alt="Juno Demo" width="800"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Evan-Varan/Juno-Application-Assistant/blob/main/DemoImages/SignupDemo.png?raw=true" alt="Signup Demo" width="800"/>
+</p>
+
+<img src="https://img.shields.io/badge/From%20the%20Heart%20Tutoring-red?style=for-the-badge" alt="FTHT" width="300"/>
+
+<p align="center">
+  <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/fthtDemo.png?raw=true" alt="FTHT Demo" width="800"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/AboutFTHTDemo.png?raw=true" alt="Juno Demo" width="800"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/ContactFTHTDemo.png?raw=true" alt="Signup Demo" width="800"/>
+</p>
+
+## &nbsp;Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Evan-Varan&show_icons=true&theme=radical&count_private=true" alt="Evan's GitHub stats" />
@@ -60,23 +94,7 @@
 </p>
 
 &nbsp;
-
-## 👇 &nbsp;Current Projects
-
-- 🔧 [Meta-Frontend-Developement-Course](https://github.com/Evan-Varan/Meta-Frontend-Developement-Course) – Currently Learning Frontend Development through Meta! 
-- 🌐 [From-The-Heart-Tutoring](https://github.com/Evan-Varan/FTHT-Website-V2) – My Full-Stack redesign of my website
-
-&nbsp;
-
-## 🙋‍♂️ &nbsp;About Me
-
-- 🔭 I’m currently working on AI tooling and platform automation (Outlier AI)
-- 🧠 I’m running and operating a tutoring company, whilst doing all software development for the project.  
-- 🌱 I’m learning Frontend Development through Meta using React, JS, TS, Tailwind CSS, and Next.js
-- 💬 Currently, in addition to my hobby work, I am looking for a full-time software developer role.
-
-&nbsp;
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Evan-Varan&color=blue" alt="Profile Views" />
 </p>
+
