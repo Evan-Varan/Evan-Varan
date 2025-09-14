@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # weekly
+    - cron: "0 0 * * *" # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -12,13 +12,19 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Evan-Varan
+          filename: github-metrics.svg
           config_timezone: America/Chicago
-          base: ""
+
+          # Base sections
+          base: header, activity, community, repositories, metadata
+
+          # Plugins
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_threshold: 1%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_followup: yes
+          plugin_stars: yes
