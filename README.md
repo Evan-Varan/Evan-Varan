@@ -89,10 +89,6 @@
   <img src="https://streak-stats.demolab.com?user=Evan-Varan&theme=radical&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Evan-Varan/Evan-Varan/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
 &nbsp;
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Evan-Varan&color=blue" alt="Profile Views" />
