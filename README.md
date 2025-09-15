@@ -78,15 +78,15 @@
 ## &nbsp;Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Evan-Varan&show_icons=true&theme=radical&count_private=true&cache_seconds=3600" alt="Evan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Evan-Varan&show_icons=true&theme=radical&count_private=true&cache_seconds=1" alt="Evan's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-Varan&layout=compact&theme=radical&hide=CMake,C,HTML,CSS,jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-Varan&layout=compact&theme=radical&count_private=true&cache_seconds=1&hide=CMake,C,HTML,CSS,jupyter%20notebook" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Evan-Varan&theme=radical&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Evan-Varan&theme=radical&cache_seconds=1&count_private=true&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 &nbsp;
