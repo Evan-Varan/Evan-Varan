@@ -53,27 +53,15 @@
 
 <img src="https://img.shields.io/badge/Juno-blue?style=for-the-badge" alt="Juno" width="100"/>
 
-<p align="center">
-  <img src="https://github.com/Evan-Varan/Juno-Application-Assistant/blob/main/DemoImages/headerDemo.png?raw=true" alt="Login Demo" width="800"/>
-</p>
-<p align="center">
-  <img src="https://github.com/Evan-Varan/Juno-Application-Assistant/blob/main/DemoImages/JunoDemo.png?raw=true" alt="Juno Demo" width="800"/>
-</p>
-<p align="center">
-  <img src="https://github.com/Evan-Varan/Juno-Application-Assistant/blob/main/DemoImages/SignupDemo.png?raw=true" alt="Signup Demo" width="800"/>
-</p>
+![Header Demo](assets/headerDemo.png)
+![Juno Project Demo](assets/JunoDemo.png)
+![Signup Demo](assets/SignupDemo.png)
 
 <img src="https://img.shields.io/badge/From%20the%20Heart%20Tutoring-red?style=for-the-badge" alt="FTHT" width="300"/>
 
-<p align="center">
-  <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/fthtDemo.png?raw=true" alt="FTHT Demo" width="800"/>
-</p>
-<p align="center">
-  <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/ScheduleFTHTDemo.png?raw=true" alt="Juno Demo" width="800"/>
-</p>
-<p align="center">
-  <img src="https://github.com/Evan-Varan/FTHT-Website-V2/blob/main/ContactFTHTDemo.png?raw=true" alt="Signup Demo" width="800"/>
-</p>
+![Main App Demo](assets/fthtDemo.png)
+![Schedule Demo](assets/ScheduleFTHTDemo.png)
+![Contact Form Demo](assets/ContactFTHTDemo.png)
 
 ## &nbsp;Stats & Activity
 
