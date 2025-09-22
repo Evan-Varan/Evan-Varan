@@ -49,13 +49,18 @@
 
 &nbsp;
 
-## &nbsp;Portfolio
+## &nbsp;Recent Portfolio Project
 
 <img src="https://img.shields.io/badge/Juno-blue?style=for-the-badge" alt="Juno" width="100"/>
 
 ![Header Demo](assets/headerDemo.png)
 ![Juno Project Demo](assets/JunoDemo.png)
 ![Signup Demo](assets/SignupDemo.png)
+
+<img src="https://img.shields.io/badge/Lucky%20Shrub-green?style=for-the-badge" alt="FTHT" width="200"/>
+
+![Main App Demo](assets/finalprojectheader.png)
+![About Demo](assets/finalprojectabout.png)
 
 <img src="https://img.shields.io/badge/From%20the%20Heart%20Tutoring-red?style=for-the-badge" alt="FTHT" width="300"/>
 
