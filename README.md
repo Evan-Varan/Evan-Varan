@@ -49,7 +49,7 @@
 
 &nbsp;
 
-## &nbsp; Portfolio Project (In Order of Most Recent)
+## &nbsp; Portfolio Projects (In Order of Most Recent)
 <img src="https://img.shields.io/badge/Lucky%20Shrub-green?style=for-the-badge" alt="FTHT" width="200"/>
 
 ![Main App Demo](assets/finalprojectheader.png)
