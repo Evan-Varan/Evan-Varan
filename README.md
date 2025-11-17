@@ -45,6 +45,7 @@
 
 -  [Juno-Application-Assistant](https://github.com/Evan-Varan/Juno-Application-Assistant) – A full-stack project to help software developers with job applications. Made with React, Tailwind CSS, SQL, and C#.  
 -  [From-The-Heart-Tutoring](https://github.com/Evan-Varan/FTHT-Website-V2) – My Full-Stack redesign of my website. Made with React, Tailwind CSS, SQL, and C#. Original website made with JS, HTML, and CSS.
+-  [Leetcode](https://github.com/Evan-Varan/Leetcode) – An ongoing study of Leetcode and general programming practices.
 
 &nbsp;
 
