@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://evanvaran.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-black?style=flat&logo=firefox&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox&logoColor=white" alt="Porfolio" />
   </a>
 </p>
 
@@ -43,17 +43,17 @@
 
 ## &nbsp;Current Projects
 
--  [Meta-Frontend-Developement-Course](https://github.com/Evan-Varan/Meta-Frontend-Developement-Course) – Currently Learning Frontend Development through Meta!
 -  [Juno-Application-Assistant](https://github.com/Evan-Varan/Juno-Application-Assistant) – A full-stack project to help software developers with job applications. Made with React, Tailwind CSS, SQL, and C#.  
 -  [From-The-Heart-Tutoring](https://github.com/Evan-Varan/FTHT-Website-V2) – My Full-Stack redesign of my website. Made with React, Tailwind CSS, SQL, and C#. Original website made with JS, HTML, and CSS.
 
 &nbsp;
 
 ## &nbsp; Portfolio Projects (In Order of Most Recent)
-<img src="https://img.shields.io/badge/Lucky%20Shrub-green?style=for-the-badge" alt="FTHT" width="200"/>
+<img src="https://img.shields.io/badge/Little%20Lemon-yellow?style=for-the-badge" alt="Little Lemon" width="200"/>
 
-![Main App Demo](assets/finalprojectheader.png)
-![About Demo](assets/finalprojectabout.png)
+![Main App Demo](assets/LittleLemonScreenshot.png)
+![Footer Demo](assets/LittleLemonFooter.png)
+![Booking Page Demo](assets/LittleLemonGuests.png)
 
 <img src="https://img.shields.io/badge/Juno-blue?style=for-the-badge" alt="Juno" width="100"/>
 
@@ -66,6 +66,15 @@
 ![Main App Demo](assets/fthtDemo.png)
 ![Schedule Demo](assets/ScheduleFTHTDemo.png)
 ![Contact Form Demo](assets/ContactFTHTDemo.png)
+
+<h3 align="center">View all my projects here:</h3>
+<p align="center">
+<a href="https://evanvaran.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox&logoColor=white" alt="Porfolio" width ="200" />
+  </a>
+</p>
+
+
 
 ## &nbsp;Stats & Activity
 
